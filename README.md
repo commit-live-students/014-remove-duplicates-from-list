@@ -1,6 +1,12 @@
 # Remove duplicate from following list
 
 **Notes:**
+* Accept a list as a parameter from function named solution.
+* Remove all duplicates.
+* Return a list of unique values.
+
+
+**Instructions:**
 * We have created a file for you named build.py.
 * Inside this file we have created a function for you named solution.
 * You have to code inside this function only.
